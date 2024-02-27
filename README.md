@@ -7,7 +7,7 @@ Telegram-controlled Windows RAT, no dedicated server or port forwarding require 
 <br />🔹Client works on Windows 7 and higher (32 and 64 bit)
 <br />🔹Auto StartUp
 <br />🔹Anti doble-launch
-<br />🔹Anti VM
+<br />🔹Anti VM 
 <br />🔹Anti-debug
 <br />🔹Auto-Stealer on first launch
 <br />🔹Single .net exe without dependences
